@@ -1,0 +1,6 @@
+{
+  "name": "Indigo Lab — Дашборд состояния команды",
+  "description": "Дашборд корпоративной психологии Indigo Lab: мониторинг энергии, стресса и риска выгорания отдела продаж компании «Школа дизайна».",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
